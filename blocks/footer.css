@@ -1,0 +1,16 @@
+/* .footer {
+  position: absolute;
+  width: 166px;
+  height: 16px;
+  left: 556px;
+  top: 1843px;
+} */
+
+.copyright {
+  position: absolute;
+  width: 166px;
+  height: 16px;
+  left: 556px;
+  top: 1843px;
+  color: #ffffff;
+}
