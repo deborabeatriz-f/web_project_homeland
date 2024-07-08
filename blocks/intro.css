@@ -28,8 +28,8 @@
   position: absolute;
   width: 738px;
   height: 68px;
-  left: 394px;
-  /* right: 394px; */
+  /* left: 394px; */
+  right: 394px;
   top: 719px;
   font-family: "Inter";
   font-style: normal;
@@ -44,8 +44,8 @@
   position: absolute;
   width: 732px;
   height: 34px;
-  left: 400px;
-  /* right: 400px; */
+  /* left: 400px; */
+  right: 400px;
   top: 797px;
   font-family: "Inter";
   font-style: normal;
@@ -61,8 +61,8 @@
   position: absolute;
   width: 722px;
   height: 182px;
-  /* right: 410px; */
-  left: 410px;
+  right: 410px;
+  /* left: 410px; */
   top: 863px;
   font-family: "Inter";
   font-style: normal;
