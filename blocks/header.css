@@ -1,6 +1,33 @@
-.header {
+.logo{
   position: absolute;
   width: 254px;
   height: 70px;
   margin: 34px 513px 80px;
+}
+
+.logo__vertical {
+  position: absolute;
+  left: 48.03%;
+  right: 51.18%;
+  top: 8.57%;
+  bottom: 54.29%;
+  background: #2a2c2f;
+}
+
+.logo__horizontal {
+  position: absolute;
+  left: 43.7%;
+  right: 43.7%;
+  top: 8.57%;
+  bottom: 88.57%;
+  background: #2a2c2f;
+}
+
+.logo__base {
+  position: absolute;
+  left: 43.7%;
+  right: 43.7%;
+  top: 0%;
+  bottom: 54.29%;
+  background: #0278fe;
 }
