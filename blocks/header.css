@@ -32,3 +32,181 @@
   bottom: 88.57%;
   background: #2a2c2f;
 }
+
+.logo__text {
+  position: absolute;
+  width: 254.84px;
+  height: 14.94px;
+  left: -0.42px;
+  top: 54.26px;
+}
+
+.text-triple-t {
+  position: absolute;
+  left: 44.9%;
+  right: 49.19%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-triple-r {
+  position: absolute;
+  left: 51.36%;
+  right: 43.85%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-triple-i {
+  position: absolute;
+  left: 56.46%;
+  right: 38.56%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-triple-p {
+  position: absolute;
+  left: 63.57%;
+  right: 31.05%;
+  top: 77.51%;
+  bottom: 1.14%;
+  background: #ffffff;
+}
+
+.text-triple-l {
+  position: absolute;
+  left: 69.31%;
+  right: 24.79%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-triple-e {
+  position: absolute;
+  left: 75.77%;
+  right: 20.36%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+.text-ten-t {
+  position: absolute;
+  left: 80.26%;
+  right: 15.87%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-ten-e {
+  position: absolute;
+  left: 84.76%;
+  right: 11.11%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-ten-n {
+  position: absolute;
+  left: 89.66%;
+  right: 5.55%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-art-a {
+  position: absolute;
+  left: 94.42%;
+  right: -0.16%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-art-r {
+  position: absolute;
+  left: 37.82%;
+  right: 57.23%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-art-t {
+  position: absolute;
+  left: 32.92%;
+  right: 62.95%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-g {
+  position: absolute;
+  left: 27.36%;
+  right: 67.67%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-a {
+  position: absolute;
+  left: 22.61%;
+  right: 73.26%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-l {
+  position: absolute;
+  left: 18.12%;
+  right: 78.01%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-ll {
+  position: absolute;
+  left: 12.95%;
+  right: 82.45%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-e {
+  position: absolute;
+  left: 10.66%;
+  right: 87.79%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-r {
+  position: absolute;
+  left: 5.4%;
+  right: 89.82%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
+
+.text-gallery-y {
+  position: absolute;
+  left: -0.16%;
+  right: 95.19%;
+  top: 77.79%;
+  bottom: 1.43%;
+  background: #ffffff;
+}
