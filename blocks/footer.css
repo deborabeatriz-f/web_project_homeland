@@ -1,16 +1,14 @@
-/* .footer {
-  position: absolute;
-  width: 166px;
-  height: 16px;
-  left: 556px;
-  top: 1843px;
-} */
+footer {
+  background-color: #2a2c2f;
+}
+
+/* PQ o background color está "sumindo"??? */
 
 .copyright {
-  position: absolute;
-  width: 166px;
-  height: 16px;
-  left: 556px;
-  top: 1843px;
-  color: #ffffff;
+  padding: 0 558px 24px 556px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: right;
 }

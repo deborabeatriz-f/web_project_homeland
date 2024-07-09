@@ -1,74 +1,47 @@
 .intro {
-  position: absolute;
-  width: 830px;
-  height: 482px;
-  left: 148px;
-  top: 563px;
-  /* top: 1269px;*/
+  margin: 0 302px 92px 148px;
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  text-align: left;
 }
 
 .intro__title {
-  position: absolute;
-  width: 830px;
-  height: 116px;
-  left: 302px;
-  /* right: 302px; */
-  top: 563px;
-  /* top: 1269px;*/
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 900;
+  margin: 0 0 40px;
+  padding: 0;
+  font-family: Inter;
   font-size: 54px;
+  font-weight: 900;
   line-height: 58px;
-  /* or 107% */
-  color: #ffffff;
+  text-align: left;
 }
 
 .intro__quote {
-  position: absolute;
-  width: 738px;
-  height: 68px;
-  /* left: 394px; */
-  right: 394px;
-  top: 719px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
+  padding-right: 92px;
+  margin-bottom: 0 0 10px;
+  font-family: Inter;
   font-size: 24px;
+  font-weight: 400;
   line-height: 34px;
-  /* or 142% */
-  color: #ffffff;
+  text-align: left;
 }
 
 .intro__quotee {
-  position: absolute;
-  width: 732px;
-  height: 34px;
-  /* left: 400px; */
-  right: 400px;
-  top: 797px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
+  margin: 0;
+  padding-right: 98px;
+  font-family: Inter;
   font-size: 24px;
+  font-weight: 400;
   line-height: 34px;
-  /* identical to box height, or 142% */
   text-align: right;
-  color: #ffffff;
 }
 
 .intro__text {
-  position: absolute;
-  width: 722px;
-  height: 182px;
-  right: 410px;
-  /* left: 410px; */
-  top: 863px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
+  padding-right: 108px;
+  font-family: Inter;
   font-size: 16px;
-  line-height: 163%;
-  /* or 26px */
-  color: #ffffff;
+  font-weight: 400;
+  line-height: 26.08px;
+  text-align: left;
 }
