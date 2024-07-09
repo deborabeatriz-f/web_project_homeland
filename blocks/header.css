@@ -1,7 +1,18 @@
 .logo {
-  padding: 34px 513px 0;
+  display: flex;
+  justify-content: center;
+  padding-top: 34px;
 }
 
 .logo__image {
   margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+   .logo {
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
 }

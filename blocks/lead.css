@@ -3,6 +3,8 @@
 }
 
 .lead__title {
+  display: flex;
+  align-items: center;
   padding: 0 132px 0;
   font-family: Inter;
   font-size: 96px;
@@ -22,6 +24,30 @@
 }
 
 .lead__image {
+  display: flex;
+  justify-content: center;
+  max-width: 984px;
+  width: 100%;
   padding: 0;
   margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    margin: 90px 0 25px;
+  }
+
+  .lead__title {
+    font-size: 75px;
+    line-height: 79px;
+    padding: 0 119px 0;
+  }
+
+  .lead__subtitle {
+    margin-bottom: 30px;
+    padding: 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
 }

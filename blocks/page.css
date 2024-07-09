@@ -11,8 +11,15 @@
 }
 
 .page {
-  width: 1280px;
-  height: 1883px;
+  max-width: 1280px;
+  gap: 0;
   background: #2a2c2f;
   color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  max-width: 768px;
+}
+
+@media screen and (max-width: 320px) {
 }
