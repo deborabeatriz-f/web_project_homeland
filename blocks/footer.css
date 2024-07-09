@@ -5,7 +5,9 @@ footer {
 /* PQ o background color está "sumindo"??? */
 
 .copyright {
-  padding: 0 558px 24px 556px;
+  /* padding: 0 558px 24px 556px; */
+  padding-right: 558px;
+  padding-bottom: 24px;
   font-family: Inter;
   font-size: 14px;
   font-weight: 400;
