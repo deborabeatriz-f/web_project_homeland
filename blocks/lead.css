@@ -32,7 +32,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .lead {
     margin: 90px 0 25px;
   }
@@ -49,5 +49,5 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
 }

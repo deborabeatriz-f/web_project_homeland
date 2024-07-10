@@ -8,11 +8,11 @@
   margin: 0;
 }
 
-@media screen and (max-width: 768px) {
-   .logo {
+@media screen and (max-width: 1024px) {
+  .logo {
     padding-top: 30px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
 }
