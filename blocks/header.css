@@ -13,8 +13,10 @@
     padding-top: 30px;
   }
 }
-/* 
+
 @media screen and (max-width: 720px) {
-  max-width: 188px;
-  padding-top: 20px;
-} */
+  .header {
+    max-width: 188px;
+    padding-top: 20px;
+  }
+}
