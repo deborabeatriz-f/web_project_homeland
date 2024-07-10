@@ -1,15 +1,15 @@
-.logo {
+.header {
   display: flex;
   justify-content: center;
   padding-top: 34px;
 }
 
-.logo__image {
+.header__logo {
   margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
-  .logo {
+  .header {
     padding-top: 30px;
   }
 }
