@@ -1,4 +1,4 @@
-footer {
+.copyright {
   display: flex;
   justify-content: center;
   padding-bottom: 24px;
@@ -10,7 +10,7 @@ footer {
 }
 
 @media screen and (max-width: 720px) {
-  .footer {
+  .copyright {
     line-height: 14px;
   }
 }

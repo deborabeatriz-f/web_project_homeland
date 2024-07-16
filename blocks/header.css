@@ -1,22 +1,24 @@
-.header {
+/* PRIMEIRA <div> DO HEADER */
+
+.image {
   display: flex;
   justify-content: center;
   padding-top: 34px;
 }
 
-.header__logo {
+.image__logo {
   margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
-  .header {
+  .image {
     padding-top: 30px;
     padding-inline: 257px;
   }
 }
 
 @media screen and (max-width: 720px) {
-  .header {
+  .image {
     max-width: 188px;
     padding-top: 20px;
   }
