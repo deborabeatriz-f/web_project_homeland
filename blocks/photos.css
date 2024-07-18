@@ -1,1 +1,55 @@
 /* SEGUNDA <section> DO MAIN */
+
+.photos {
+  padding: 118px 48px 92px;
+  display: flex;
+  justify-content: center;
+}
+
+.grid {
+  max-width: 1184px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+}
+
+.grid__picture {
+  max-width: 284px;
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .photos {
+    margin: 64px 16px 88px;
+  }
+
+  .grid {
+    max-width: 720px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+  }
+
+  /* .grid__picture {
+    max-width: 352px;
+  } */
+}
+
+@media screen and (max-width: 720px) {
+  .photos {
+    margin: 38px 16px 62px;
+  }
+
+  .grid {
+    max-width: 288px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+  }
+
+  /* .grid__picture {
+    max-width: 288px;
+  } */
+}
