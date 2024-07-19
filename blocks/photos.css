@@ -1,7 +1,7 @@
 /* SEGUNDA <section> DO MAIN */
 
 .photo {
-  padding: 118px 48px 92px;
+  margin: 92px 48px 80px;
   display: flex;
   justify-content: center;
 }
@@ -14,7 +14,7 @@
   grid-row-gap: 16px;
 }
 
-.grid__picture {
+.photo__picture {
   max-width: 284px;
   width: 100%;
 }
@@ -31,10 +31,6 @@
     grid-column-gap: 16px;
     grid-row-gap: 16px;
   }
-
-  /* .grid__picture {
-    max-width: 352px;
-  } */
 }
 
 @media screen and (max-width: 720px) {
@@ -48,8 +44,4 @@
     grid-template-columns: 1fr;
     grid-gap: 12px;
   }
-
-  /* .grid__picture {
-    max-width: 288px;
-  } */
 }
