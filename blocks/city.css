@@ -51,6 +51,7 @@
 
 .city__image {
   grid-area: image;
+  max-width: 460px;
 }
 
 .city__text {
@@ -98,36 +99,54 @@
 @media screen and (max-width: 1024px) {
   .city {
     max-width: 720px;
+    grid-gap: 48px 28px;
+    grid-template-columns: 340px 1fr;
+    grid-template-rows: 1fr 340px;
   }
 
   .city__name {
+    max-width: 340px;
+    font-size: 42px;
+    line-height: 46px;
+    text-align: left;
   }
 
   .city__artists {
+    max-width: 352px;
   }
 
   .city__artists-text {
+    /* max-width: 67px; */
   }
 
   .city__artists-name {
+    /* max-width: 352px; */
   }
 
   .city__image {
+    max-width: 340px;
   }
 
   .city__text {
+    max-width: 352px;
   }
 
   .city__text-paragraph {
+    font-size: 16px;
+    line-height: 26.08px;
   }
 
   .button {
+    max-width: 355px;
   }
 }
 
 @media screen and (max-width: 720px) {
   .city {
     max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .city__name {
@@ -143,6 +162,7 @@
   }
 
   .city__image {
+    max-width: 320px;
   }
 
   .city__text {

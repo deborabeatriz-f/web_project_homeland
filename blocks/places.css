@@ -7,3 +7,14 @@
   align-items: center;
 }
 
+@media screen and (max-width: 1024px) {
+  .places {
+    padding: 80px 24px 0;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .places {
+    padding: 62px 0;
+  }
+}
