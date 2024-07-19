@@ -2,11 +2,13 @@
 
 .lead {
   margin: 90px 148px 92px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .lead__title {
-  display: flex;
-  align-items: center;
   padding: 0 132px 0;
   font-family: Inter;
   font-size: 96px;
@@ -26,8 +28,6 @@
 }
 
 .lead__image {
-  display: flex;
-  justify-content: center;
   max-width: 984px;
   width: 100%;
   padding: 0;
