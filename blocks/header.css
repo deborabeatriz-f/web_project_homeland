@@ -8,6 +8,7 @@
 
 .header__image-logo {
   margin: 0;
+  max-width: 254px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -19,7 +20,11 @@
 
 @media screen and (max-width: 720px) {
   .header__image {
-    max-width: 188px;
     padding-top: 20px;
+    padding-inline: 66px;
+  }
+
+  .header__image-logo {
+    max-width: 188px;
   }
 }
