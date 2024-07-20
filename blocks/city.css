@@ -54,6 +54,11 @@
   max-width: 460px;
 }
 
+.city__image:hover {
+  background: #00000080;
+  opacity: 0.5;
+}
+
 .city__text {
   grid-area: text;
   display: flex;
@@ -114,26 +119,23 @@
   .city__artists {
     max-width: 352px;
   }
-
   .city__artists-text {
-    /* max-width: 67px; */
   }
-
   .city__artists-name {
-    /* max-width: 352px; */
   }
 
   .city__image {
     max-width: 340px;
   }
 
-  .city__text {
-    max-width: 352px;
-  }
+  /* .city__text {
+
+  } */
 
   .city__text-paragraph {
     font-size: 16px;
     line-height: 26.08px;
+    max-width: 352px;
   }
 
   .button {
@@ -150,27 +152,38 @@
   }
 
   .city__name {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: left;
   }
 
   .city__artists {
+    max-width: 288px;
   }
 
-  .city__artists-text {
-  }
+  /* .city__artists-text {
+  } */
 
-  .city__artists-name {
-  }
+  /* .city__artists-name {
+  } */
 
   .city__image {
     max-width: 320px;
   }
 
-  .city__text {
-  }
+  /* .city__text {
+  } */
 
   .city__text-paragraph {
+    max-width: 288px;
   }
 
   .button {
+    max-width: 288px;
+    font-size: 14px;
+    line-height: 16.94px;
+    margin: 0 16px;
+    padding: 12px 16px;
   }
 }
