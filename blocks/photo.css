@@ -6,7 +6,7 @@
   justify-content: center;
 }
 
-.grid {
+.photo__grid {
   max-width: 1184px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -24,7 +24,7 @@
     margin: 64px 16px 88px;
   }
 
-  .grid {
+  .photo__grid {
     max-width: 720px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -38,7 +38,7 @@
     margin: 38px 16px 62px;
   }
 
-  .grid {
+  .photo__grid {
     max-width: 288px;
     display: grid;
     grid-template-columns: 1fr;

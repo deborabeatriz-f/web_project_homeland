@@ -76,7 +76,7 @@
   margin: 0;
 }
 
-.button {
+.city__button {
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   text-decoration: none;
   color: #fff;
@@ -92,7 +92,7 @@
   box-sizing: border-box;
 }
 
-.button:hover {
+.city__button:hover {
   background: linear-gradient(
     90deg,
     rgba(2, 120, 254, 0.25) 0%,
@@ -138,7 +138,7 @@
     max-width: 352px;
   }
 
-  .button {
+  .city__button {
     max-width: 355px;
   }
 }
@@ -179,7 +179,7 @@
     max-width: 288px;
   }
 
-  .button {
+  .city__button {
     max-width: 288px;
     font-size: 14px;
     line-height: 16.94px;

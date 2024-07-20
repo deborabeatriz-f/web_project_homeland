@@ -1,6 +1,6 @@
 /* PRIMEIRA <section> DO HEADER */
 
-.image {
+.header__image {
   display: flex;
   justify-content: center;
   padding-top: 34px;
@@ -11,14 +11,14 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .image {
+  .header__image {
     padding-top: 30px;
     padding-inline: 257px;
   }
 }
 
 @media screen and (max-width: 720px) {
-  .image {
+  .header__image {
     max-width: 188px;
     padding-top: 20px;
   }
