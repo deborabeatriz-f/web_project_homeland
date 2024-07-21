@@ -3,8 +3,14 @@
 .intro {
   display: flex;
   justify-content: flex-start;
+  align-items: center;
   flex-direction: column;
-  margin: 0 302px 0 148px;
+  max-width: 1280px;
+  margin-left: 148px;
+  margin-right: 302px;
+}
+
+.intro__container {
   max-width: 830px;
 }
 
@@ -49,6 +55,10 @@
     margin: 0 24px 88px;
   }
 
+  .intro__container {
+    max-width: 720px;
+  }
+
   .intro__title {
     font-size: 45px;
     line-height: 49px;
@@ -71,6 +81,10 @@
 @media screen and (max-width: 720px) {
   .intro {
     margin: 0 16px 64px;
+  }
+
+  .intro__container {
+    max-width: 288px;
   }
 
   .intro__title {
