@@ -5,13 +5,9 @@
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
-  max-width: 1280px;
+  max-width: 830px;
   margin-left: 148px;
   margin-right: 302px;
-}
-
-.intro__container {
-  max-width: 830px;
 }
 
 .intro__title {
