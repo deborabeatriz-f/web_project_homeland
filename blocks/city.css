@@ -58,6 +58,7 @@
 .city__image:hover {
   background: #00000080;
   opacity: 0.5;
+  cursor: pointer;
 }
 
 .city__text {
