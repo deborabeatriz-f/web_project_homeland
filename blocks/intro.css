@@ -92,4 +92,9 @@
     line-height: 30px;
     padding: 40px 0 10px;
   }
+
+  .intro__quotee {
+    padding: 0;
+    align-self: flex-end;
+  }
 }
