@@ -148,6 +148,7 @@
 @media screen and (max-width: 720px) {
   .city {
     max-width: 320px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -172,6 +173,7 @@
 
   .city__image {
     max-width: 320px;
+    width: 100%;
   }
 
   /* .city__text {
